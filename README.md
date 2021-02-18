@@ -1,1 +1,3 @@
-[![Hey!](https://raw.githubusercontent.com/avigael/assets/main/images/gif/lcd_greeting.gif "Hey!")](http://gael.cc "Hey!")
+<a href="https://gael.cc">
+  <img alt="Hey!" align="left" src="https://raw.githubusercontent.com/avigael/assets/main/images/gif/lcd_greeting.gif" width="50%" />
+</a>
